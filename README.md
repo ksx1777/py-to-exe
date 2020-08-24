@@ -1,2 +1,2 @@
 # py-to-exe
-Um programa que executa comandos automáticos do Pyinstaller para gerar um executável a partir de um script .py
+Um projeto meu de 1 ano atrás. Executa comandos automáticos do Pyinstaller para gerar um executável a partir de um script .py
